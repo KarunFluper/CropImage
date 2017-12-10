@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CroupImage</string>
+    <string name="invitation_yes">Yes</string>
+    <string name="invitation_del_no">No</string>
+</resources>
